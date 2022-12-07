@@ -1,0 +1,147 @@
+Sun Nov 27 12:30:41 CET 2022
+ERROR: IndexOutOfBoundsException in .
+If this problem persists, contact your system adminsitrator.
+
+---- END OF ERROR.
+Sun Nov 27 12:30:59 CET 2022
+ERROR: IndexOutOfBoundsException in .
+If this problem persists, contact your system adminsitrator.
+
+---- END OF ERROR.
+Sun Nov 27 12:31:41 CET 2022
+ERROR: IndexOutOfBoundsException in .
+If this problem persists, contact your system adminsitrator.
+
+---- END OF ERROR.
+Sun Nov 27 12:33:54 CET 2022
+ERROR: DNI o Contraseña inválido
+---- END OF ERROR.
+Sun Nov 27 12:34:07 CET 2022
+ERROR: DNI o Contraseña inválido
+---- END OF ERROR.
+Sun Nov 27 12:34:13 CET 2022
+ERROR: DNI o Contraseña inválido
+---- END OF ERROR.
+Sun Nov 27 12:36:20 CET 2022
+ERROR: DNI o Contraseña inválido
+---- END OF ERROR.
+Sun Nov 27 13:26:54 CET 2022
+ERROR: NumberFormatException in null.
+Debe ser un número válido.
+
+---- END OF ERROR.
+Sun Nov 27 13:28:14 CET 2022
+ERROR: NumberFormatException in null.
+Debe ser un número válido.
+
+---- END OF ERROR.
+Sun Nov 27 13:28:26 CET 2022
+ERROR: El salario base debe estar entre 500.00 y 1200.00
+---- END OF ERROR.
+Sun Nov 27 13:28:32 CET 2022
+ERROR: El salario base debe estar entre 500.00 y 1200.00
+---- END OF ERROR.
+Sun Nov 27 16:00:23 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+---- END OF ERROR.
+Sun Nov 27 16:03:54 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+---- END OF ERROR.
+Sun Nov 27 16:08:26 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+---- END OF ERROR.
+Sun Nov 27 16:11:31 CET 2022
+ERROR: DNI o Contraseña inválido
+---- END OF ERROR.
+Sun Nov 27 16:12:04 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+---- END OF ERROR.
+Sun Nov 27 17:49:53 CET 2022
+ERROR: DNI o Contraseña inválido
+---- END OF ERROR.
+Sun Nov 27 22:41:25 CET 2022
+ERROR: SQLException in JPanel1a1.btSiguienteActionPerformed().
+Error en posición de lista.
+
+---- END OF ERROR.
+Sun Nov 27 22:41:33 CET 2022
+ERROR: SQLException in JPanel1a1.btSiguienteActionPerformed().
+Error en posición de lista.
+
+---- END OF ERROR.
+Mon Nov 28 21:31:15 CET 2022
+ERROR: DNI o Contraseña inválido
+Mon Nov 28 21:55:08 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Tue Nov 29 16:09:55 CET 2022
+ERROR: SQLException in JPanelLogin.btIngresarActionPerformed().
+Error en la consulta.
+
+Tue Nov 29 16:10:00 CET 2022
+ERROR: DNI o Contraseña inválido
+Tue Nov 29 16:10:35 CET 2022
+ERROR: SQLException in JPanelLogin.btIngresarActionPerformed().
+Error en la consulta.
+
+Tue Nov 29 16:10:37 CET 2022
+ERROR: DNI o Contraseña inválido
+Tue Nov 29 16:10:50 CET 2022
+ERROR: SQLException in JPanelLogin.btIngresarActionPerformed().
+Error en la consulta.
+
+Tue Nov 29 16:10:54 CET 2022
+ERROR: DNI o Contraseña inválido
+Thu Dec 01 16:18:55 CET 2022
+ERROR: SQLException in JPanel1a1.btModificarActionPerformed().
+No se ha podido realizar la actualización.
+
+Thu Dec 01 16:20:18 CET 2022
+ERROR: SQLException in JPanel1a1.btModificarActionPerformed().
+No se ha podido realizar la actualización.
+
+Thu Dec 01 16:23:41 CET 2022
+ERROR: SQLException in JPanel1a1.btModificarActionPerformed().
+No se ha podido realizar la actualización.
+
+Thu Dec 01 16:31:30 CET 2022
+ERROR: SQLException in JPanel1a1.btModificarActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 15:59:33 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 16:20:20 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 16:24:56 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 16:26:56 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 16:33:58 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 16:34:44 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
+Mon Dec 05 16:39:47 CET 2022
+ERROR: SQLException in JPanelVerPerfil.jButton2ActionPerformed().
+No se ha podido realizar la actualización.
+
